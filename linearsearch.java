@@ -1,5 +1,5 @@
 import java.util.Scanner;
- 
+//linear search added 
 class LinearSearch
 {
   public static void main(String args[])
